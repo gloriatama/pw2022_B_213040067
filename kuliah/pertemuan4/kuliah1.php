@@ -44,11 +44,5 @@ echo round(2.4); //pembulatan ke nilai terdekat
 echo "<br>";
 echo ceil(2.1); //ke atas (ceiling / langit2)
 echo "<br>";
-echo floor(2.9);
-
-
-
-
-
-
+echo floor(2.9); //ke bawah (floor / lantai)
 ?>
